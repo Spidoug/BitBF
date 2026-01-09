@@ -1,5 +1,5 @@
-# BitBF
-BitBF - Bitcoin Wallet Key Scanner &amp; Validator 1.0
+# BitBF 1.0
+BitBF - Bitcoin Wallet Key Scanner &amp; Validator
 
 <img width="1037" height="843" alt="Captura de tela 2026-01-09 163513" src="https://github.com/user-attachments/assets/1dcdaad3-fd86-4a3d-bc0d-b003487aa141" />
 
